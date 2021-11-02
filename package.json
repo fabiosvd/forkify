@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fabiosvd/forkify/issues"
   },
-  "homepage": "https://github.com/fabiosvd/forkify#readme"
+  "homepage": "https://github.com/fabiosvd/forkify#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
 }
