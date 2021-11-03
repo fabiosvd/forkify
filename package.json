@@ -17,7 +17,10 @@
     "url": "https://github.com/fabiosvd/forkify/issues"
   },
   "homepage": "https://github.com/fabiosvd/forkify#readme",
-  "dependencies": {},
+  "dependencies": {
+    "core-js": "^3.19.1",
+    "regenerator-runtime": "^0.13.9"
+  },
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
     "sass": "^1.43.4"
